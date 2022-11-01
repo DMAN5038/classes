@@ -51,6 +51,11 @@ To Move/Rename a File or Dir
 mv <file_name> <destination>
 ``
 
+To copy a File
+``
+cp <file_name> <destination>
+``
+
 To create empty file
 ``
 touch <file_name>
@@ -64,3 +69,17 @@ touch <file_name>
 
 1) Create an empty file under ``01-Terminal`` named `foo` and move it under `l` 
 directory
+
+# Homework
+1) Create a file Named `xyz` under `01-Terminal` and:
+    a) Create a folder `Z` under `l`
+    b) Move `xyz` under `Z`
+    c) Move `Z` dir under `A`
+
+2) Create a file Named `RRR` under `02` and:
+   a) Rename `RRR` to `rrr`
+
+3) Delete all files and directories created in (1) and (2):
+   - `xyz` file
+   - `Z` dir
+   - `rrr` file
