@@ -71,6 +71,13 @@ touch <file_name>
 directory
 
 # Homework
+Preparation: 
+- Open terminal window;
+- go to home directory `cd ~`
+- create homework directory: `mkdir HM01`
+- Create the following file structure under HM01:
+  ![](img/hm01.png)
+
 1) Create a file Named `xyz` under `01-Terminal` and:
     a) Create a folder `Z` under `l`
     b) Move `xyz` under `Z`
